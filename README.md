@@ -6,6 +6,11 @@
 
 ISA: RISK  
 Memory: 16byte MEPROM(DIP-SW)  
-Clock: 1Hz, 可変(0Hz~3MHz), 手動  
+Clock: 1Hz, 10Hz, 手動  
 Input: 4bit(DIP-SW)  
 Output: 4bit(LED)  
+
+## Appearance
+
+![image](https://github.com/anoriqq/anoriqq/blob/images/IMG_3515.jpg?raw=true)
+![image](https://github.com/anoriqq/anoriqq/blob/images/IMG_3516.jpg?raw=true)
