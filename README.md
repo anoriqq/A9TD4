@@ -4,7 +4,7 @@
 
 ## Specifications
 
-ISA: RISK  
+ISA: RISC
 Memory: 16byte MEPROM(DIP-SW)  
 Clock: 1Hz, 10Hz, 手動  
 Input: 4bit(DIP-SW)  
